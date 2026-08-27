@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python bytecode y caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Variables de entorno y credenciales (Kaggle)
+.env
+kaggle.json
+
+# Checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
